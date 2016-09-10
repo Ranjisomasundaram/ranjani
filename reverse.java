@@ -10,6 +10,6 @@ rer=rer*10;
 rer=rer+(num%10);
 num=num/10;
 }
-System.out.println("The Factorial of "+num+"is:"+rer);
+System.out.println("The Reverse of "+num+"is:"+rer);
 }
 }
